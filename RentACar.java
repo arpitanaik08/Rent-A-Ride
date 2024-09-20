@@ -243,7 +243,7 @@ class CarRentalSystem {
 
 }
 
-public class RentACar {  // Class name changed from Main to RentACar
+public class RentACar { 
     public static void main(String[] args) {
         CarRentalSystem rentalSystem = new CarRentalSystem();
 
